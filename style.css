@@ -1,0 +1,208 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.header-container {
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 9px;
+}
+img.middle-logo {
+    width: 37px;
+}
+.menus {
+    color: gray;
+    list-style: none;
+    display: flex;
+    gap: 17px;
+    cursor: pointer;
+}
+.profile-picture {
+    background-image: url("images/ash-edmonds-0aWZdK8nK2I-unsplash.jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    /* background-color: white; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 9px;
+}
+img.users {
+    width: 276px;
+}
+h2.user-heading {
+    color: white;
+    font-size: 86px;
+}
+p.user-decscription {
+    width: 53%;
+    font-size: 18px;
+    color: gray;
+}
+.button {
+    display: flex;
+    gap: 37px;
+    list-style: none;
+    color: white;
+    font-weight: bold;
+    align-items: center;
+    margin-top: 45px;
+}
+button.main-button-1 {
+    background: darkblue;
+    border: none;
+    padding: 18px 36px 17px 33px;
+    color: white;
+    font-weight: bold;
+}
+
+
+.background-image{
+    background-image: url("asset/image/footer-bg.png"), linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.9));
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    justify-content: space-around;
+    align-items: center;
+    padding: 9px;
+}
+
+
+
+.companies-icons {
+    display: flex;
+    justify-content: space-around;
+    width: 85%;
+    text-align: center;
+    margin: auto;
+}
+h3.recent-clients {
+    /* display: flex; */
+    /* align-items: center; */
+    font-size: 28px;
+}
+img.icon {
+    width: 96px;
+}
+.flexs {
+    display: flex;
+    justify-content: space-around;
+    width: 85%;
+    /* align-items: center; */
+}
+.google-section {
+    display: flex;
+    gap: 46px;
+    align-items: center;
+    margin-left: 44px;
+}
+.flex {
+    margin: 49px;
+    display: flex;
+    align-items: center;
+    color: wheat;
+}
+h5.header-5 {
+    font-size: 17px;
+}
+.google-section {
+    display: flex;
+    gap: 46px;
+    align-items: center;
+    margin-left: 44px;
+    /* padding: 5px; */
+    margin-top: 9px;
+}
+.headshot {
+    text-align: center;
+    margin: 50px;
+    color: wheat;
+}
+p.paragraph {
+    width: 85px;
+    margin: auto;
+}
+p.paragraph {
+    width: 30%;
+    margin: auto;
+}
+.skill-card {
+    /* background-color: red; */
+    height: 130px;
+    width: 149px;
+}
+.work-card {
+    display: flex;
+    margin: 4%;
+    justify-content: space-around;
+    margin-right: 168px;
+}
+progress#file {
+    width: 212%;
+}
+h4.skill {
+    color: white;
+    margin: 10%;
+}
+img.project {
+    width: 100%;
+}
+.projects-section {
+    display: flex;
+    justify-content: center;
+}
+.projects-section {
+    display: flex;
+    justify-content: center;
+    gap: 1%;
+    margin: 5%;
+}
+.chat-project {
+    background-color: rgb(253, 247, 247);
+    height: 214px;
+    width: 165px;
+}
+p.details {
+    color: black;
+    font-style: normal;
+}
+.footer-section{
+    background-image: url("images/download (4).jpeg");
+    height: 50vh;
+}
+.footer {
+    text-align: center;
+    font-size: 45px;
+    color: wheat;
+}
+p.footer-desc {
+    width: 51%;
+    font-size: 15px;
+    margin: auto;
+}
+.icon {
+    display: flex;
+    justify-content: center;
+    gap: 38px;
+    margin-top: 22px;
+}
+i.fa {
+    border: 1px solid wheat;
+    padding: 9px;
+    border-radius: 29px;
+    width: 19px;
+    cursor: pointer;
+}
+.reserved {
+    margin: 50px;
+}
+h5.foot-text {
+    color: wheat;
+}
+span.ton {
+    color: lightblue;
+}
