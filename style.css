@@ -207,3 +207,21 @@ h5.foot-text {
 span.ton {
     color: lightblue;
 }
+@media screen and (max-width:576px){
+    .projects-section{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        gap: 5px;
+    }
+    .header-container{
+        display: flex;
+        width: 100%;
+        position: fixed;
+    }
+    .menus{
+        flex-direction: column;
+        color: gray;
+    }
+}
